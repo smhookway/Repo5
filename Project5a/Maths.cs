@@ -12,5 +12,10 @@ namespace Project5a
         {
             return x + y;
         }
+
+        public int SubtractTwoIntegers(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
