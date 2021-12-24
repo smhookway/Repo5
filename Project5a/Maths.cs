@@ -17,5 +17,10 @@ namespace Project5a
         {
             return x - y;
         }
+
+        public double AddTwoNumbers(double x, double y)
+        {
+            return x + y;
+        }
     }
 }
